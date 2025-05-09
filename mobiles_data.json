@@ -1,0 +1,181 @@
+[
+  {
+    "products": [
+      {
+        "name": "UNI5G Postpaid",
+        "description": "The all new UNI5G Postpaid, now connected to the 5G network, from RM39/month.",
+        "url": "https://unifi.com.my/mobile/postpaid",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-postpaid.png",
+        "price": "39",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "UNI5G Prepaid",
+        "description": "Pay and use only what you need, connected to the fastest 5G network. Starter pack at RM10, passes available from RM25/month.",
+        "url": "https://unifi.com.my/mobile/prepaid",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-prepaid.png",
+        "price": "10",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Unifi Postpaid Smartphone Deals",
+        "description": "Own brand new smartphone today and enjoy amazing savings.",
+        "url": "https://unifi.com.my/mobile/devices",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/WTB_ZTE.jpg",
+        "price": "89",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Mobile Roaming",
+        "description": "Stay connected on your travels abroad with unlimited data for RM38 daily.",
+        "url": "https://unifi.com.my/mobile/roaming",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-roaming.png",
+        "price": "38",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "International Direct Dial (IDD)",
+        "description": "Need to call overseas number? Check out our IDD rates to any numbers in the world.",
+        "url": "https://unifi.com.my/mobile/international-direct-dial",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-IDD.png",
+        "price": "0",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Our Network",
+        "description": "Superior calls, unmatched connectivity with Unifi Mobile VoLTE and Unifi Mobile VoWiFi",
+        "url": "https://unifi.com.my/our-network",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/ournetwork_vowifi-img.png",
+        "price": "0",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "UNI5G Postpaid",
+        "description": "The all new UNI5G Postpaid, now connected to the 5G network, from RM39/month.",
+        "url": "https://unifi.com.my/mobile/postpaid",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-postpaid.png",
+        "price": "39",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "UNI5G Prepaid",
+        "description": "Pay and use only what you need, connected to the fastest 5G network. Starter pack at RM10, passes available from RM25/month.",
+        "url": "https://unifi.com.my/mobile/prepaid",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-prepaid.png",
+        "price": "10",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Unifi Postpaid Smartphone Deals",
+        "description": "Own brand new smartphone today and enjoy amazing savings.",
+        "url": "https://unifi.com.my/mobile/devices",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/WTB_ZTE.jpg",
+        "price": "89",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Mobile Roaming",
+        "description": "Stay connected on your travels abroad with unlimited data for RM38 daily.",
+        "url": "https://unifi.com.my/mobile/roaming",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-roaming.png",
+        "price": "38",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "International Direct Dial (IDD)",
+        "description": "Need to call overseas number? Check out our IDD rates to any numbers in the world.",
+        "url": "https://unifi.com.my/mobile/international-direct-dial",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/tile-IDD.png",
+        "price": "0",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      },
+      {
+        "name": "Our Network",
+        "description": "Superior calls, unmatched connectivity with Unifi Mobile VoLTE and Unifi Mobile VoWiFi",
+        "url": "https://unifi.com.my/our-network",
+        "image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/ournetwork_vowifi-img.png",
+        "price": "0",
+        "priceCurrency": "MYR",
+        "availability": "http://schema.org/InStock"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Roam the World with Unifi Mobile Roaming",
+        "description": "Travel abroad while staying connected with unlimited data as low as RM 9.",
+        "image": "/sites/default/files/page/assets/revamp/mobile/roaming-the-world-with-unifi_R1.png",
+        "link": "/mobile/roaming"
+      },
+      {
+        "title": "Our Network",
+        "description": "Making an overseas call? Check our superior calls, unmatched connectivity with Unifi\n                                    Mobile VoLTE and Unifi Mobile VoWiFi.",
+        "image": "/sites/default/files/page/assets/images/personal/mobile/postpaid/taas/ournetwork_vowifi-img.png",
+        "link": "/our-network"
+      },
+      {
+        "title": "International Direct Dial",
+        "description": "Check out our IDD rates to any number in the world.",
+        "image": "/sites/default/files/page/assets/revamp/mobile/international-direct-dial_R1.png",
+        "link": "/mobile/international-direct-dial"
+      }
+    ],
+    "devices": [
+      {
+        "device_name": "ZTE Blade A75 5G",
+        "device_image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/postpaid/device-bundles/front-silver.png",
+        "device_description": "RRP RM749",
+        "device_link": "https://estore.unifi.com.my/eshop/offer-detail/11164",
+        "price_details": "FREE RM40 TNG"
+      },
+      {
+        "device_name": "Samsung Galaxy A06 5G",
+        "device_image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/postpaid/device-bundles/samsung-galaxy-a06/SM-A066_Galaxy-A06-5G_Light-Green_Front2.png",
+        "device_description": "RRP RM699",
+        "device_link": "https://estore.unifi.com.my/eshop/offer-detail/11391",
+        "price_details": "FREE RM40 TNG"
+      },
+      {
+        "device_name": "HONOR 200 Smart 5G",
+        "device_image": "https://unifi.com.my/sites/default/files/page/assets/images/personal/mobile/postpaid/device-bundles/HONOR-200-Smart-5G/1.png",
+        "device_description": "RRP RM1099",
+        "device_link": "https://estore.unifi.com.my/eshop/offer-detail/11283",
+        "price_details": "FREE RM40 TNG"
+      },
+      {
+        "device_name": "Other Devices",
+        "device_image": "/sites/default/files/page/assets/revamp/mobile/other-devices.png",
+        "device_description": null,
+        "device_link": "https://estore.unifi.com.my/eshop",
+        "price_details": null
+      }
+    ],
+    "preferences": [
+      {
+        "title": "Register in 10 minutes",
+        "description": "Our sign-up process is fast and easy. Join as a new user or switch lines seamlessly with\n                                Unifi, the leading 5G telco in Malaysia.",
+        "image": "/sites/default/files/page/assets/revamp/mobile/why_register-in-minutes_R1.png"
+      },
+      {
+        "title": "Connect Everywhere",
+        "description": "Our 4G network spans nationwide, and we're expanding ",
+        "image": "/sites/default/files/page/assets/revamp/mobile/why_connect-everywhere.png"
+      },
+      {
+        "title": "SIM Delivery",
+        "description": "Get your Postpaid SIM, Prepaid Starter Pack, or Device delivered straight to your doorstep,\n                                so you can start enjoying 5G data plans in Malaysia without any hassle.",
+        "image": "/sites/default/files/page/assets/revamp/mobile/why_sim-delivery_R1.png"
+      }
+    ]
+  }
+]

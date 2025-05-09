@@ -1,0 +1,77 @@
+[
+  {
+    "package_name": "Unifi Home",
+    "package_speed": "100Mbps",
+    "package_description": "Great for small households and apartments with 2 to 4\n                          users/devices.",
+    "price": "89",
+    "original_price": "RRP RM99/mth",
+    "included_bandwidth": "100Mbps/50Mbps",
+    "included_router": "Wi-Fi 6 Combo Box",
+    "included_service": "24 Hrs Service Guarantee",
+    "netflix_bundle": "Netflix Basic",
+    "netflix_details": [
+      "Unlimited ad-free movies, TV shows, and mobile games",
+      "Download & watch on 1 supported device at a time",
+      "Watch in HD"
+    ],
+    "promo_tag": "3 Months Free",
+    "buy_now_link": null
+  },
+  {
+    "package_name": "Unifi Home",
+    "package_speed": "300Mbps",
+    "package_description": "Optimal for Families, Home Offices and Townhouses with 4 to 6\n                          users/devices.",
+    "price": "129",
+    "original_price": "RRP RM139/mth",
+    "included_bandwidth": "300Mbps/50Mbps",
+    "included_router": "Wi-Fi 6 Combo Box",
+    "included_service": "24 Hrs Service Guarantee",
+    "netflix_bundle": "Netflix Basic",
+    "netflix_details": [],
+    "promo_tag": "3 Months Free",
+    "buy_now_link": null
+  },
+  {
+    "package_name": "Unifi Home",
+    "package_speed": "500Mbps",
+    "package_description": "Perfect for gamers and streamers in houses with 6 to 8\n                          users/devices.",
+    "price": "149",
+    "original_price": "RRP RM159/mth",
+    "included_bandwidth": "500Mbps/100Mbps",
+    "included_router": "Wi-Fi 6 Combo Box",
+    "included_service": "24 Hrs Service Guarantee",
+    "netflix_bundle": "Netflix Standard",
+    "netflix_details": [],
+    "promo_tag": "3 Months Free",
+    "buy_now_link": null
+  },
+  {
+    "package_name": "Unifi Home",
+    "package_speed": "1Gbps",
+    "package_description": "Lightning-Fast Speed for Power Users in Larger Homes with 8\n                          to 10 users/devices.",
+    "price": "249",
+    "original_price": "RRP RM289/mth",
+    "included_bandwidth": "1Gbps/500Mbps",
+    "included_router": "Wi-Fi 6 Combo Box",
+    "included_service": null,
+    "netflix_bundle": "Netflix Standard",
+    "netflix_details": [],
+    "promo_tag": "3 Months Free",
+    "buy_now_link": null
+  },
+  {
+    "package_name": "Unifi Home",
+    "package_speed": "2Gbps",
+    "package_description": "Ultimate Internet Experience for Large Households with 10+\n                          users/devices.",
+    "price": "319",
+    "original_price": "RRP RM368.90/mth",
+    "included_bandwidth": "2Gbps/1Gbps",
+    "included_router": "Wi-Fi 6 Combo Box",
+    "included_service": null,
+    "netflix_bundle": "Netflix Standard",
+    "netflix_details": [],
+    "promo_tag": "3 Months Free",
+    "buy_now_link": null
+  }
+]
+
