@@ -1,0 +1,46 @@
+[
+    {
+        "question": "1. What is On Site \nSupport  (OSS) \ncharge?",
+        "answer": "On Site Support (OSS) charge is the charge that will be imposed \non TM customers  for an on -site visit to their premise by appointed \nTM technicians."
+    },
+    {
+        "question": "2. What are the \nreasons that will \nrequire on -site visit \nto my pre mise  and \nchargeable for On \nSite Support  (OSS)?",
+        "answer": "Below are the possible scenarios:  \n1) If you have personally request ed for an on -site support and \nyour CPE is already beyond warranty period  \n2) Technical fault s that c ould be  due to your own device , \ninternal wiring or negligence.  \nAt the premise, o ur technicians will first make an assessment \nbefore informing you  of the actual issue."
+    },
+    {
+        "question": "3. What is Customer \nCharging \nProposition (CCP)?",
+        "answer": "Customer Charging Proposition (CCP) is an option for TM \ncustomer to choose between renewal of their service contract or \na one-time charge (according to price of the related Customer \nPremises Equipment (CPE)) upon equipment replacement by TM."
+    },
+    {
+        "question": "4. Can I opt for not \nrenewing the \ncontract when the \ntechnician comes \nand replace my \nequipment?",
+        "answer": "Yes. Just inform your preferred option to our TM technician during \nthe on -site visit. Our technician will make the necessary change \nfor you.  \n \nNote: If you do not wish to proceed with the renewal of service contract as per \nyour earlier selection, please inform our technician/Care Crew that you would \nlike to change to ‘One -off payment’.  \n5. I don’t want to pay \nanything for the \nequipment \nreplaceme"
+    },
+    {
+        "question": "5. I don’t want to pay \nanything for the \nequipment \nreplacement. Is this \npossible?",
+        "answer": "Yes, enjoy a free replacement of the equipment simply by \nrenewing your service contract as below:  \n On Site Support (OSS) and Customer Charging Proposition (CCP) , 20th Sept 2022 , V1.0                                   \n                                                                                                                  \n \n \nNO QUESTION  ANSWER"
+    },
+    {
+        "question": "6. Do I need to pay any \ncash amount upfront \nto the TM technician \nfor the on-site \nsupport as well as \nthe equipment \nreplacement?",
+        "answer": "No, all the charges will be reflected in your next monthly bill , if you \nhave opted for one -off payment."
+    },
+    {
+        "question": "7. Can I change the \nequipment \nreplacement \npayment option?",
+        "answer": "Yes. Just inform your preferred option to our TM technician during \nthe on-site visit. Our technician will make the necessary change \nfor you ."
+    },
+    {
+        "question": "8. How will the \nequipment charges \nbe imposed if the \nreplacement \ninvolves more than \none (1) equipment in \na single  on-site \nvisit?",
+        "answer": "Calculation example for each CPE replacement is as below:  \n Warranty Period  \nCPE Beyond  Within  \nRG (Modem)  RM200  Free - \nSet-Top Box (STB)  RM300  Free - \n \nE.g.: If your RG and STB are faulty,  \nRG is within the warranty period while STB is beyond the warranty \nperiod,  \nTotal Charges: Free  (RG)  + RM300  (STB)  = RM300  \nOn Site Support (OSS) and Customer Charging Proposition (CCP) , 20th Sept 2022 , V1.0                                   \n                                                                                                                  \n \n \nNO QUESTION  ANSWER"
+    },
+    {
+        "question": "9. Can I replace the \nnon-faulty \nequipment  using the \nequipment \nreplacement option?",
+        "answer": "We are sorry, you are not allowed to replace any non -faulty \nequipment. Our technician will check and verify the equipment \nconditions and functions first before making any replacement."
+    },
+    {
+        "question": "10. Where can I check \nmy charging option, \nor the charges \noccurred during the \non-site visit?",
+        "answer": "You will be able to view the total amount charged in the digital \nRestoration Acceptance Form (RAF).  \nOnce you have signed the form in the technician’s tablet, you will \nreceive a copy of the form via email. Your next bill will also reflect \nthese charges."
+    },
+    {
+        "question": "11. How will I know  if my \ncontract has been \nrenewed?",
+        "answer": "You can check the status of your contract by logging in to \nunifi.com.my  and go to  My Account s > View Service > My Service \nDetails (Service Start Date)."
+    }
+]
